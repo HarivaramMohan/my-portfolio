@@ -1,0 +1,202 @@
+h1 {
+    text-align: center;
+    font-family: "Sacramento", cursive;
+    color: #66BFBF;
+    font-size: 5rem;
+    margin-bottom: 0;
+ }
+
+ .mountain {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+
+ h2 {
+   text-align: center;
+   font-family: sans-serif ;
+   color: #66BFBF;
+   font-size: 2rem;
+   font-weight: 200;
+ }
+
+ .h2 {
+    text-align: center;
+    font-family: sans-serif ;
+    color: #66BFBF;
+    font-size: 2rem;
+    font-weight: 600;
+ }
+
+ .top-container {
+    margin: 0;
+    background-color: #e4f9f5;
+ }
+
+ .top-cloud {
+    margin-left: 900px;
+    margin-top: 50px;
+ }
+
+ .bottom-cloud {
+    margin-top: 20px;
+    margin-left: 250px;
+ }
+
+ body {
+    margin: 0;
+ }
+
+.my-img {
+    border-radius: 50%;
+    display: block;
+    margin: 100px auto 0px auto;
+    width: 185px;
+}
+
+#hello {
+   text-align: center;
+   font-size: 2.5rem;
+   color: #66BFBF;
+   font-weight: normal;
+   margin-top: 0;
+
+}
+ hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.intro {
+   width: 30%;
+   margin: auto;
+   text-align: center;
+   color: #2D2727;
+   font-family: sans-serif;
+   line-height: 1.5;
+   font-size: 20px;
+}
+
+.cat-typing {
+   float: left;
+   margin-top: 0px;
+   margin-left: 100px;
+   margin-right: 50px;
+   border-radius: 20%;
+}
+
+h3 {
+   font-family: sans-serif ;
+   color: #66BFBF;
+   font-weight: 750;
+}
+
+.skill-information {
+   color: #40514E;
+   line-height: 1.5;
+   width: 80%;
+   font-size: 20px;
+}
+
+.singing-img {
+   float: left;
+   margin: 50px 100px;
+}
+
+#foot {
+   text-align: center;
+}
+
+.foot-p {
+   width: 40%;
+   margin: auto;
+   text-align: center;
+   color: #2D2727;
+   font-size: 20px;
+   line-height: 1.5;
+}
+
+.btn {
+   background: #00f7ff;
+   background-image: -webkit-linear-gradient(top, #00f7ff, #009dff);
+   background-image: -moz-linear-gradient(top, #00f7ff, #009dff);
+   background-image: -ms-linear-gradient(top, #00f7ff, #009dff);
+   background-image: -o-linear-gradient(top, #00f7ff, #009dff);
+   background-image: linear-gradient(to bottom, #00f7ff, #009dff);
+   -webkit-border-radius: 12;
+   -moz-border-radius: 12;
+   border-radius: 12px;
+   font-family: Arial;
+   color: #ffffff;
+   font-size: 20px;
+   padding: 10px 20px 10px 20px;
+   text-decoration: none;
+   border: none;
+   text-align: center;
+ }
+ 
+ .btn:hover {
+   background: #00fff2;
+   background-image: -webkit-linear-gradient(top, #00fff2, #00fff2);
+   background-image: -moz-linear-gradient(top, #00fff2, #00fff2);
+   background-image: -ms-linear-gradient(top, #00fff2, #00fff2);
+   background-image: -o-linear-gradient(top, #00fff2, #00fff2);
+   background-image: linear-gradient(to bottom, #00fff2, #00fff2);
+   text-decoration: none;
+ }
+
+ #button {
+   text-align: center;
+   padding: 50px;
+ }
+
+ .footer {
+   height: 150px;
+   width: 100%;
+   margin-bottom: 0;
+   background-color: #0EA293;
+   text-align: center;
+   margin-top: 50px;
+   padding-top: 50px;
+ }
+
+ .link {
+   color: #27E1C1;
+   font-family: sans-serif;
+   font-size: 1.3rem;
+   letter-spacing: 1px;
+   text-decoration: none;
+   padding-top: 50px;
+ }
+
+ .roblox {
+   color: #27E1C1;
+   font-family: sans-serif;
+   font-size: 1.3rem;
+   letter-spacing: 1px;
+   text-decoration: none;
+   padding-top: 50px;
+   margin-left: 70px;
+ }
+
+ a:hover {
+   color: whitesmoke;
+ }
+
+ footer {
+    color: whitesmoke;
+    padding-top: 70px;
+    text-align: center;
+}
+
+.mridangam {
+   text-decoration: none;
+   color: #AAC8A7;
+}
+
+.mridangam:hover {
+   color: #8294C4;
+}
